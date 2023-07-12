@@ -1,21 +1,19 @@
-### Hi there 👋 I'm Sasanka Premarane
+<p align="center">Hi there 👋 I'm Sasanka Premarane </p>
 
 
+<h4 align="center">A passionate Software Developer from Sri Lanka</h4>
 
-<h4 align="center">A passionate Web developer from Sri Lanka</h4>
+<!--<p align="left"> <a href="https://twitter.com/Sasanka_Premaratne" target="blank"><img src="https://img.shields.io/twitter/follow/Sasanka_Premaratne?logo=twitter&style=for-the-badge" alt="Sasanka_Premaratne" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Sasanka_Premaratne" target="blank"><img src="https://img.shields.io/twitter/follow/Sasanka_Premaratne?logo=twitter&style=for-the-badge" alt="Sasanka_Premaratne" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<!-- <p align="left">
 <a href="https://twitter.com/aaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaaaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaaaaaa" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/aaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaaaaa" height="30" width="40" /></a> -->
-<a href="https://fb.com/aaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaaaaaa" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/aaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaaaaaa" height="30" width="40" /></a>
 <a href="https://instagram.com/aaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaaaaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaaaaaa" height="30" width="40" /></a>
-</p>
-
+</p> -->
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
