@@ -1,7 +1,7 @@
-<p align="center">Hi there 👋 I'm Sasanka Premarane </p>
+<p align="center">Hi there 👋 I'm Sasanka Premaratne </p>
 
 
-<h4 align="center">A passionate Software Developer from Sri Lanka</h4>
+<h4 align="center">Enthusiastic Software Developer 🚀 | Undergraduate in Computer Science @UCSC | Passionate about coding, problem-solving, and open-source projects | Let's build something awesome together! 💻🌟</h4>
 
 <!--<p align="left"> <a href="https://twitter.com/Sasanka_Premaratne" target="blank"><img src="https://img.shields.io/twitter/follow/Sasanka_Premaratne?logo=twitter&style=for-the-badge" alt="Sasanka_Premaratne" /></a> </p>
 
